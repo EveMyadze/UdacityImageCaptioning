@@ -7,7 +7,7 @@ Input Image
 
 
 
-
+Detected Faces
 
 ![ObamasFaces](https://user-images.githubusercontent.com/76539970/104591163-4f180c00-563a-11eb-90f3-7ceb12b624e6.jpg)
 
